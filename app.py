@@ -14,7 +14,7 @@ import random
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)  
 
 # TELEGRAM BOT SETUP
-TELEGRAM_BOT_TOKEN = "8871217897:AAFJQV6TSV-mCRjgi5dwP5rVauWNgvoM0GI"
+TELEGRAM_BOT_TOKEN = "AAFJQV6TSV-mCRjgi5dwP5rVauWNgvoM0GI"
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{t.me/khangxbot}"
 
 # Encrypted Credit Info - DO NOT REMOVE
@@ -657,7 +657,7 @@ async def MaiiiinE():
     global loop, key, iv, region, BOT_UID, TarGeT, acc_name
 
     # BOT LOGIN UID
-    BOT_UID = int('15555465683')
+    BOT_UID = int('17707286984')
 
     Uid, Pw = '', '1BYSTARGMRdxo3PASx'
 
