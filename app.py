@@ -301,8 +301,8 @@ async def GeNeRaTeAccEss(uid , password):
         async with session.post(url, headers=Hr, data=data) as response:
             if response.status != 200: return "Failed to get access token"
             data = await response.json()
-            open_id = data.get("37b842f5fed934d392888806dd6c8b75")
-            access_token = data.get("7072c7053c956566f01814cacca81d8693111d2bf403b1dafae4d671cbcd7157")
+            open_id = data.get("6046a5803f847fbef80de9601b7c0df2")
+            access_token = data.get("51865504112066f905c97791410a8af34d177c7910f45f94f7d9c09278f2bd56")
             return (open_id, access_token) if open_id and access_token else (None, None)
 
 async def EncRypTMajoRLoGin(open_id, access_token):
@@ -655,9 +655,9 @@ async def MaiiiinE():
     global loop, key, iv, region, BOT_UID, TarGeT, acc_name
 
     # BOT LOGIN UID
-    BOT_UID = int('17707286984')
+    BOT_UID = int('17727758061')
 
-    Uid, Pw = '', '1BYSTARGMRdxo3PASx'
+    Uid, Pw = '7400555553', 'F6901C245D913822DD20D5CECA97BB4F59DD654C6F5EADD4F1B97C8B02091493'
 
     open_id, access_token = await GeNeRaTeAccEss(Uid, Pw)
     if not open_id or not access_token:
