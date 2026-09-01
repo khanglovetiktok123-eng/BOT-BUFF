@@ -291,8 +291,8 @@ async def GeNeRaTeAccEss(uid , password):
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "close"}
     data = {
-        "uid": 7375522015,
-        "password": "AA3D8B1A949BB61759C1521DDC8B6C55349603F202BD25F92DB0BC3E924D83B3",
+        "uid": 7400555553,
+        "password": "F6901C245D913822DD20D5CECA97BB4F59DD654C6F5EADD4F1B97C8B02091493",
         "response_type": "eyJhY2NvdW50X2lkIjoxNzcwNzI4Njk4NCwibmlja25hbWUiOiJXZzFVVmw1QUNnd1JGbFJWIiwibm90aV9yZWdpb24iOiJWTiIsImxvY2tfcmVnaW9uIjoiVk4iLCJleHRlcm5hbF9pZCI6IjM3Yjg0MmY1ZmVkOTM0ZDM5Mjg4ODgwNmRkNmM4Yjc1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MCwiY2xpZW50X3ZlcnNpb24iOiIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjczNzU1MjIwMTUsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjoxNzg4MTkzMTgzLCJjbGllbnRfdHlwZSI6MSwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjAsInJlbGVhc2VfY2hhbm5lbCI6IiIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTQiLCJleHAiOjE3ODgyMjc3Njl9.ERo_egLC_0J5qHUqDtWBa6FsC9cJuxeeCpr6R-c3MkI",
         "client_type": "2",
         "client_secret": "956c915c93671649975bebbebd0fda56f29ba0e0980ecb56a117527240aefc0c",
