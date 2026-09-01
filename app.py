@@ -14,8 +14,7 @@ import random
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)  
 
 # TELEGRAM BOT SETUP
-TELEGRAM_BOT_TOKEN = "8834595925:AAHfHNxQkHAfYInRhLPb8fK3GRZpWuV5cWg
-"
+TELEGRAM_BOT_TOKEN = "8834595925:AAHfHNxQkHAfYInRhLPb8fK3GRZpWuV5cWg"
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}"
 
 # Encrypted Credit Info - DO NOT REMOVE
